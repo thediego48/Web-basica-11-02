@@ -1,16 +1,15 @@
 # Web-basica-11-02
-## markdown
-### Ejemplo de markdown
+
 
 ![imagen GitHub](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
-**Elementos del repositorio**:
+## *Elementos del repositorio*:
 
 - README.md
 - HTML de la web
 - CSS que modifica el HTML
 
-*Orden de importancia*:
+## *Orden de importancia*:
 
 1. HTML
 2. CSS
