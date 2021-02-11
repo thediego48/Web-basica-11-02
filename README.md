@@ -1,4 +1,4 @@
-# Web-basica-11-02
+<center># Web-basica-11-02</center>
 
 
 ![imagen GitHub](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
